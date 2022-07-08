@@ -1,0 +1,28 @@
+{"cars":[
+  {
+    "brand":"mazda",
+    "model":"cx7",
+    "year":2015,
+    "color":"grey"
+  },
+  {
+    "brand":"opel",
+    "model":"omega",
+    "year":2002,
+    "color":"black"
+  },
+  {
+    "brand":"nissan",
+    "model":"x-trail",
+    "year":2009,
+    "color":"white"
+  },
+  {
+    "brand":"mitsubishi",
+    "model":"outlander",
+    "year":2020,
+    "color":"yellow"
+  }
+  ]
+  
+}
