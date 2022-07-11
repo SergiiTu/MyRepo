@@ -23,6 +23,12 @@
     "year":2020,
     "color":"yellow"
   }
+  {
+    "brand":"toyota",
+    "model":"crown",
+    "year":2001,
+    "color":"red"
+  }
   ]
   
 }
